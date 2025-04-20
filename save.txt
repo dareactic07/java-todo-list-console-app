@@ -1,0 +1,3 @@
+Buy groceries,true
+Clean the room,false
+Walk the dog,true
