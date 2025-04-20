@@ -36,7 +36,7 @@ A simple Java-based console application that allows users to manage their tasks.
 
 ## 📸 Demo
 
-<img src="screenshot.png" alt="screenshot of the console app" width="600">
+<img src="image.png" alt="screenshot of the console app" width="600">
 
 ---
 
